@@ -1,0 +1,17 @@
+F:\Project\Academy\Academy\Academy.Persistence.EF\bin\Debug\Academy.Persistence.EF.dll.config
+F:\Project\Academy\Academy\Academy.Persistence.EF\bin\Debug\Academy.Persistence.EF.dll
+F:\Project\Academy\Academy\Academy.Persistence.EF\bin\Debug\Academy.Persistence.EF.pdb
+F:\Project\Academy\Academy\Academy.Persistence.EF\bin\Debug\Academy.Domain.dll
+F:\Project\Academy\Academy\Academy.Persistence.EF\bin\Debug\EntityFramework.dll
+F:\Project\Academy\Academy\Academy.Persistence.EF\bin\Debug\EntityFramework.SqlServer.dll
+F:\Project\Academy\Academy\Academy.Persistence.EF\bin\Debug\Framework.Core.dll
+F:\Project\Academy\Academy\Academy.Persistence.EF\bin\Debug\Academy.Domain.pdb
+F:\Project\Academy\Academy\Academy.Persistence.EF\bin\Debug\Framework.Core.pdb
+F:\Project\Academy\Academy\Academy.Persistence.EF\bin\Debug\EntityFramework.xml
+F:\Project\Academy\Academy\Academy.Persistence.EF\bin\Debug\EntityFramework.SqlServer.xml
+F:\Project\Academy\Academy\Academy.Persistence.EF\obj\Debug\Academy.Persistence.EF.csprojResolveAssemblyReference.cache
+F:\Project\Academy\Academy\Academy.Persistence.EF\obj\Debug\Academy.Persistence.EF.Migrations.CourseCategoryStep.resources
+F:\Project\Academy\Academy\Academy.Persistence.EF\obj\Debug\Academy.Persistence.EF.Migrations.AddCourse.resources
+F:\Project\Academy\Academy\Academy.Persistence.EF\obj\Debug\Academy.Persistence.EF.csproj.GenerateResource.Cache
+F:\Project\Academy\Academy\Academy.Persistence.EF\obj\Debug\Academy.Persistence.EF.dll
+F:\Project\Academy\Academy\Academy.Persistence.EF\obj\Debug\Academy.Persistence.EF.pdb

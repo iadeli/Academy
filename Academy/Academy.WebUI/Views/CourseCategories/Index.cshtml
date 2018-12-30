@@ -1,0 +1,70 @@
+﻿@using Academy.Application.Contracts
+@using Academy.Application.Contracts.CourseCategories
+
+@{
+    Layout = "../Shared/_Layout.cshtml";
+}
+
+@model List<Academy.Application.Contracts.CourseCategories.CourseCategoryDTO>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <div>
+            @(Html.Kendo().Button()
+        .Name("primaryTextButton")
+        .HtmlAttributes(new { type = "button", @class = "k-primary" })
+        .Content("Primary Button"))
+        </div>
+        <div>
+            @(Html.Kendo().TreeList<CourseCategoryDTO>()
+    .Name("CourseCategoryTree")
+    .Columns(columns =>
+    {
+        columns.Add().Field(e => e.Id).Title("شناسه گروه");
+        columns.Add().Field(e => e.Title).Title("نام گروه").TemplateId("titleTemplate");
+        columns.Add().Title("عملیات").TemplateId("operationTemplate");
+    })
+    .DataSource(dataSource => dataSource
+        .Read(read => read.Action("Tree", "CourseCategories"))
+        .ServerOperation(false)
+        .Model(m =>
+        {
+            m.Id(f => f.Id);
+            m.ParentId(f => f.ParentId);
+            m.Field(f => f.Title);
+        })
+    ))
+
+            <script id="titleTemplate" type="text/x-kendo-template">
+                <span style="color:red">#=Title#</span>
+            </script>
+
+            <script id="operationTemplate" type="text/x-kendo-template">
+                @*<button onclick="remove(#=Id#)">حذف</button>*@
+                <a href="" onclick="remove(#=Id#)">حذف</a>
+            </script>
+
+            <script>
+                function remove(id) {
+                    alert("remove Clicked!" + id);
+                }
+            </script>
+
+            <script>
+                function refreshTree() {
+                    var treelist = $("#CourseCategoryTree").data("kendoTreeList");
+                    treelist.dataSource().read({param: "value"});
+                }
+            </script>
+
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,5 @@
+F:\Project\Academy\Academy\Academy.Core\bin\Debug\Academy.Core.dll
+F:\Project\Academy\Academy\Academy.Core\bin\Debug\Academy.Core.pdb
+F:\Project\Academy\Academy\Academy.Core\obj\Debug\Academy.Core.csprojResolveAssemblyReference.cache
+F:\Project\Academy\Academy\Academy.Core\obj\Debug\Academy.Core.dll
+F:\Project\Academy\Academy\Academy.Core\obj\Debug\Academy.Core.pdb

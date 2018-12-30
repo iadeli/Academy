@@ -1,0 +1,8 @@
+F:\Project\Academy\Academy\Framework.Kendo\bin\Debug\Framework.Kendo.dll
+F:\Project\Academy\Academy\Framework.Kendo\bin\Debug\Framework.Kendo.pdb
+F:\Project\Academy\Academy\Framework.Kendo\bin\Debug\Framework.Core.dll
+F:\Project\Academy\Academy\Framework.Kendo\bin\Debug\Kendo.Mvc.dll
+F:\Project\Academy\Academy\Framework.Kendo\bin\Debug\Framework.Core.pdb
+F:\Project\Academy\Academy\Framework.Kendo\obj\Debug\Framework.Kendo.csprojResolveAssemblyReference.cache
+F:\Project\Academy\Academy\Framework.Kendo\obj\Debug\Framework.Kendo.dll
+F:\Project\Academy\Academy\Framework.Kendo\obj\Debug\Framework.Kendo.pdb

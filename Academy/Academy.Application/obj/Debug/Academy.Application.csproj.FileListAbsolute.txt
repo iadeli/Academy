@@ -1,0 +1,13 @@
+F:\Project\Academy\Academy\Academy.Application\bin\Debug\Academy.Application.dll
+F:\Project\Academy\Academy\Academy.Application\bin\Debug\Academy.Application.pdb
+F:\Project\Academy\Academy\Academy.Application\bin\Debug\Academy.Application.Contracts.dll
+F:\Project\Academy\Academy\Academy.Application\bin\Debug\Academy.Domain.dll
+F:\Project\Academy\Academy\Academy.Application\bin\Debug\Framework.Core.dll
+F:\Project\Academy\Academy\Academy.Application\bin\Debug\Academy.Core.dll
+F:\Project\Academy\Academy\Academy.Application\bin\Debug\Academy.Application.Contracts.pdb
+F:\Project\Academy\Academy\Academy.Application\bin\Debug\Academy.Domain.pdb
+F:\Project\Academy\Academy\Academy.Application\bin\Debug\Framework.Core.pdb
+F:\Project\Academy\Academy\Academy.Application\bin\Debug\Academy.Core.pdb
+F:\Project\Academy\Academy\Academy.Application\obj\Debug\Academy.Application.csprojResolveAssemblyReference.cache
+F:\Project\Academy\Academy\Academy.Application\obj\Debug\Academy.Application.dll
+F:\Project\Academy\Academy\Academy.Application\obj\Debug\Academy.Application.pdb

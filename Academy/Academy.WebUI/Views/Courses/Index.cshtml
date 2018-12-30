@@ -1,0 +1,25 @@
+﻿@using Academy.Application.Contracts
+@using Academy.Application.Contracts.Courses
+@model List<Academy.Application.Contracts.Courses.CourseDTO>
+
+@{
+    Layout = "../Shared/_Layout.chtml";
+}
+
+
+@(Html.Kendo().Grid<CourseDTO>()
+      .Name("grid")
+      .Columns(columns =>
+      {
+          columns.Bound(a => a.Title).Title("نام دوره");
+          columns.Bound(a => a.Category.Title).Title("دسته بندی");
+      })
+      .Pageable()
+      .Sortable()
+      .Scrollable()
+      .Filterable()
+      .DataSource(datasource => datasource
+          .Ajax()
+          .PageSize(5)
+          .Read(read => read.Action("Grid", "Courses"))
+      ));

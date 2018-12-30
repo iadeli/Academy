@@ -1,0 +1,10 @@
+F:\Project\Academy\Academy\Academy.Domain\bin\Debug\Academy.Domain.dll
+F:\Project\Academy\Academy\Academy.Domain\bin\Debug\Academy.Domain.pdb
+F:\Project\Academy\Academy\Academy.Domain\bin\Debug\Castle.Core.dll
+F:\Project\Academy\Academy\Academy.Domain\bin\Debug\Castle.Windsor.dll
+F:\Project\Academy\Academy\Academy.Domain\bin\Debug\Framework.Core.dll
+F:\Project\Academy\Academy\Academy.Domain\bin\Debug\Framework.Core.pdb
+F:\Project\Academy\Academy\Academy.Domain\bin\Debug\Castle.Windsor.xml
+F:\Project\Academy\Academy\Academy.Domain\obj\Debug\Academy.Domain.csprojResolveAssemblyReference.cache
+F:\Project\Academy\Academy\Academy.Domain\obj\Debug\Academy.Domain.dll
+F:\Project\Academy\Academy\Academy.Domain\obj\Debug\Academy.Domain.pdb

@@ -1,0 +1,5 @@
+F:\Project\Academy\Academy\UserManagement.Application.Contracts\bin\Debug\UserManagement.Application.Contracts.dll
+F:\Project\Academy\Academy\UserManagement.Application.Contracts\bin\Debug\UserManagement.Application.Contracts.pdb
+F:\Project\Academy\Academy\UserManagement.Application.Contracts\obj\Debug\UserManagement.Application.Contracts.csprojResolveAssemblyReference.cache
+F:\Project\Academy\Academy\UserManagement.Application.Contracts\obj\Debug\UserManagement.Application.Contracts.dll
+F:\Project\Academy\Academy\UserManagement.Application.Contracts\obj\Debug\UserManagement.Application.Contracts.pdb
